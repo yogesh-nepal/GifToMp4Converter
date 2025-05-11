@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/GifToMp4Converter/bin/Debug/net8.0
+/GifToMp4Converter/obj
+/GifToMp4Converter/bin/Release/net8.0
