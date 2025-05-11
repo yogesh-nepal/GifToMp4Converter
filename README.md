@@ -27,5 +27,5 @@ A simple .NET console application that batch-converts GIFs to MP4 videos using F
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/GifToMp4Converter.git
+   git clone https://github.com/yogesh-nepal/GifToMp4Converter.git
    cd GifToMp4Converter
